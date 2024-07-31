@@ -6,70 +6,45 @@
   
 </div>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
+<h2 align="left">Hi 👋! My name is GuiGui</h2>
 
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
+###
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=milena579&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=jolly&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milena579&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/erdemonal11"><img width="24" src="https://avatars.githubusercontent.com/u/137915983?s=24&v=4" alt="erdemonal11" /> erdemonal11</a> |7/9/2024, 4:21:12 PM|Best readme ever!!|
-| <a href="https://github.com/uwusnyslodziak"><img width="24" src="https://avatars.githubusercontent.com/u/142937950?s=24&u=1a57fca59080306bf114c339ca34828d687d8e3e&v=4" alt="uwusnyslodziak" /> uwusnyslodziak</a> |7/1/2024, 9:01:19 PM|words can't express this readme|
-| <a href="https://github.com/Boopup"><img width="24" src="https://avatars.githubusercontent.com/u/99917823?s=24&u=f3856d1c25ed8f3ef4f6a5929a62e452376d73f8&v=4" alt="Boopup" /> Boopup</a> |6/21/2024, 10:40:45 PM|Nice guestbook!!|
-| <a href="https://github.com/KovasMcCann"><img width="24" src="https://avatars.githubusercontent.com/u/44278533?s=24&u=9ddbdc592909531067911502d3194419135514f1&v=4" alt="KovasMcCann" /> KovasMcCann</a> |6/12/2024, 4:24:47 PM|Cool 👍|
-| <a href="https://github.com/huuquyet"><img width="24" src="https://avatars.githubusercontent.com/u/35992057?s=24&u=0127beb8fbdedd25bacaf682efc6aadb045ed93b&v=4" alt="huuquyet" /> huuquyet</a> |5/31/2024, 10:35:26 AM|Awesome idea, thanks|
-<!-- /Guestbook -->
+###
 
-<!-- Footer -->
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/GuiLAquieri/"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+
+
+###
+
+<br clear="both">
+
+
+###
