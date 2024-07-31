@@ -1,10 +1,11 @@
-# Welcome!  💻✨
-
-
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
 
 </div>
+</div>
 
-# About me 😊:
   Hi, my name is GuiGui, I'm 20 years old and each day I become more and more excited to learn about programming.
 </div>
   I am currently working as an apprendice in Cibersystems at Bosch, and also studying Software Engineering at Positivo.
@@ -25,6 +26,6 @@
 
 <div align="center"> 
   
-  [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=11&icon=9&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=7icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
