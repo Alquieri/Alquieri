@@ -15,11 +15,11 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alquieri&theme=github-dark-dimmed&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alquieri&theme=transparent&hide_border=true)<br/>
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alquieri&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alquieri&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -27,6 +27,6 @@
 
 <div align="center"> 
   
-  [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=6icon=9&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=7icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
