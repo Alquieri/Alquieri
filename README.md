@@ -27,6 +27,6 @@
 
 <div align="center"> 
   
-  [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=7icon=9&pretty=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=5icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
