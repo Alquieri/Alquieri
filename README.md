@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
 
 </div>
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+GuiGui;I'm+20+Years+Old;I'm+From+Curitiba,+PR;I+Study+Software+Engineering;Welcome!:%29)](https://git.io/typing-svg)
-
-
-
-
-
 <div align="center">
+<img SRC="https://orig00.deviantart.net/2b02/f/2018/074/3/2/dream_by_kirokaze-dc5yhml.gif">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alquieri&theme=transparent&hide_border=true)<br/>
 
-<div align="center">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccff33size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+GuiGui;I'm+20+Years+Old;I'm+From+Curitiba,+PR;I+Study+Software+Engineering;Welcome!:%29)](https://git.io/typing-svg)
+<div/>
+<div align="center"> 
+
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alquieri&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alquieri&theme=blue-green&border=True&include_all_commits=True&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com?user=Alquieri&theme=blue-green&hide_border=true" alt="Alquieri's GitHub Stats" />
 
-</div>
+
+
+
 
 ---
 
-<div align="center"> 
+
   
   [![](https://visitcount.itsvg.in/api?id=Alquieri&label=Profile%20Views&color=5icon=9&pretty=true)](https://visitcount.itsvg.in)
 
